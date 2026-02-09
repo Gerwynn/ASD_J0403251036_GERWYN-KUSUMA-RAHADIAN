@@ -1,0 +1,10 @@
+BRG001,Air Mineral,20
+BRG002,Gula Pasir,15
+BRG003,Beras,30
+BRG004,Minyak Goreng,25
+BRG005,Teh Celup,40
+BRG006,Kopi Bubuk,18
+BRG007,Susu UHT,22
+BRG008,Mie Instan,50
+BRG009,Roti Tawar,12
+BRG010,Telur Ayam,35

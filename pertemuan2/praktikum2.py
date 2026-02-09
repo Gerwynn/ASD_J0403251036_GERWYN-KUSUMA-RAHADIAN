@@ -20,7 +20,7 @@ def baca_data(Nama_file):
 
 """
 Praktikum 2 : Konsep ADT dan File Handling (Studi Kasus)
-Latihan Dasar 2 : Membuat Funamangsi Menampilkan Data
+Latihan Dasar 2 : Membuat Fungsi Menampilkan Data
 """
 
 def tampilkan_data(data_dict):
@@ -72,7 +72,7 @@ def ubah_data(data_dict):
         return
     
     try:
-        nilai_baru = nilai_baru = int(input("Masukkan Nilai Baru 0-100: ").strip())
+        nilai_baru = int(input("Masukkan Nilai Baru 0-100: ").strip())
     except ValueError:
         print("Nilai Harus Berupa Angka. Update Dibatalkan")
 
